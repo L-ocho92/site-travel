@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+    font-size: 10px; 
+}
+li{
+    list-style: none;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+}
+li {
+    font-size: 20px;
+}
+ul{
+display: flex;
+gap: 30px;
+}
+.arrow{
+width: 10px;
+height: 1vh;
+}
+.Sign{
+    border:black 1px solid;
+    border-radius: 3px;
+  padding-inline: 3px;
+}
+.En{
+    display: flex;
+    gap: 5px;
+    align-items:center;
+}
+.Conteneur1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.OO{
+    width: 40%;
+
+}
+body{
+    background: url(image/Decore.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-family: 'open sans', 'sans-serif';
+}
+h2{
+    color: #DF6951;
+    font-size: 25px;
+    
+}
+h1{
+    color: black;
+    font-size: 85px;
+    
+}
+p{
+font-size: 15px;
+}
+.B1{
+font-size: 15px;
+border: orange;
+border-radius: 3px;
+}
+.B2{
+font-size: 15px;
+justify-content: center;
+}
+.Image{
+    width: 40%;
+    height: 40%;
+}
+
+.double-boutton {
+    display: flex;
+    gap: 40px;
+}
+
+.boutton {
+    display: inline-block;
+    padding: 16px 32px;
+    background:orange;
+    text-decoration: none;
+    color: white;
+    border-radius: 3px;
+    width: 5px;
+    height: 5px;
+    
+}
+
+.boutton2 {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.Categorie{
+    text-align: center;
+}
+.categoriee{
+font-size: 24px;
+}
+.We {
+    font-size: 44px;
+}
+.carre{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    gap:20px;
+}
+.pora h1{
+    font-size: 12px;
+} 
+.pora p{
+    font-size: 10px;
+}
+.pora img{
+    width: 20%;
+}
+.rectangle{
+  width: 25px;
+  height: 25px;
+}
+.pora{
+    border:1px solid;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    border-radius: 3%;
+    border-color: white;
+}
+.europe-league {
+    display: grid ;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+
+}
+.Top{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 40px;
+
+}
+.Italy{
+    display: grid ;
+    justify-content: center;
+    align-items: center;
+}
+.grece-voyage{
+    display: flex;
+    
+}
+
+
+    
+
+ 
